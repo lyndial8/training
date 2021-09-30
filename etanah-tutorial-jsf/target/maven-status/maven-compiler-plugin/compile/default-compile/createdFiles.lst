@@ -1,0 +1,4 @@
+com\ptsb\tutorial\tutorialjsf\web\form\CarForm.class
+com\ptsb\tutorial\tutorialjsf\domain\Car.class
+com\ptsb\tutorial\tutorialjsf\domain\BaseEntity.class
+com\ptsb\tutorial\tutorialjsf\web\form\CarListForm.class
